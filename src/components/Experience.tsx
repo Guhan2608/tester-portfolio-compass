@@ -6,46 +6,19 @@ import { Calendar, MapPin, Building } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      title: "Senior QA Engineer",
-      company: "TechCorp Solutions",
-      location: "San Francisco, CA",
-      duration: "2022 - Present",
-      type: "Full-time",
-      achievements: [
-        "Led automation testing initiatives, reducing manual testing time by 70%",
-        "Designed and implemented comprehensive test suites for 5+ web applications",
-        "Mentored junior QA engineers and established testing best practices",
-        "Collaborated with development teams using Agile methodologies"
-      ],
-      technologies: ["Selenium", "Python", "Jenkins", "Docker", "AWS"]
-    },
-    {
-      title: "QA Engineer",
-      company: "StartupXYZ",
-      location: "Austin, TX",
-      duration: "2020 - 2022",
-      type: "Full-time",
-      achievements: [
-        "Developed automated test scripts using Cypress and JavaScript",
-        "Performed comprehensive API testing using Postman and Newman",
-        "Identified and documented 200+ bugs, improving product quality by 40%",
-        "Created detailed test documentation and user acceptance criteria"
-      ],
-      technologies: ["Cypress", "JavaScript", "Postman", "JIRA", "TestRail"]
-    },
-    {
       title: "Junior QA Tester",
-      company: "Digital Innovations Inc",
+      company: "StartupTech Solutions",
       location: "Remote",
-      duration: "2019 - 2020",
+      duration: "July 2024 - Present",
       type: "Full-time",
       achievements: [
-        "Executed manual test cases for web and mobile applications",
-        "Participated in regression testing and smoke testing activities",
-        "Collaborated with cross-functional teams to ensure quality deliverables",
-        "Gained expertise in various testing methodologies and tools"
+        "Execute manual test cases for web applications following test plans",
+        "Participate in smoke testing and regression testing cycles",
+        "Document and track bugs using JIRA with detailed reproduction steps",
+        "Collaborate with development team in daily standups and sprint planning",
+        "Learn and apply testing best practices under senior QA guidance"
       ],
-      technologies: ["Manual Testing", "TestLink", "Bugzilla", "SQL"]
+      technologies: ["Manual Testing", "JIRA", "TestRail", "Chrome DevTools", "Postman"]
     }
   ];
 
@@ -57,7 +30,7 @@ const Experience = () => {
             Professional Experience
           </h2>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-            A proven track record of delivering high-quality software through rigorous testing
+            Building foundational expertise in software quality assurance and testing methodologies
           </p>
         </div>
         

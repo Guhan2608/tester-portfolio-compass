@@ -22,8 +22,8 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Passionate Quality Assurance Engineer with 5+ years of experience in manual and automated testing. 
-            Dedicated to ensuring flawless user experiences through comprehensive testing strategies.
+            Motivated Junior Quality Assurance Engineer with 6 months of hands-on experience in manual testing. 
+            Eager to grow and contribute to delivering high-quality software through thorough testing practices.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
